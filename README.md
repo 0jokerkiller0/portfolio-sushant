@@ -1,73 +1,126 @@
-# Welcome to your Lovable project
+Sushant Telrandhe — Portfolio Website
 
-## Project info
+A modern and responsive personal portfolio built using React, Vite, and Tailwind CSS.
+This website showcases my skills, projects, cybersecurity experience, and professional background.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🚀 Live Demo
 
-## How can I edit this code?
+(Add your deployed link here)
+Example:
+https://your-portfolio-url.vercel.app/
 
-There are several ways of editing your application.
+🧑‍💻 About This Portfolio
 
-**Use Lovable**
+This portfolio is designed to highlight my work in:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Cyber Security
 
-Changes made via Lovable will be committed automatically to this repo.
+Vulnerability Assessment & Penetration Testing (VAPT)
 
-**Use your preferred IDE**
+Network Security
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Web Application Security
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Cyber Tools & Projects
 
-Follow these steps:
+It serves as my professional identity for recruiters, hiring managers, and collaborators.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🎨 Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Modern UI with a clean, minimal cyber-security theme
 
-# Step 3: Install the necessary dependencies.
-npm i
+Fully responsive design (mobile, tablet, desktop)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Smooth animations & clean section transitions
+
+Dedicated sections:
+
+Home / Hero
+
+About Me
+
+Skills
+
+Projects
+
+Experience
+
+Contact
+
+Built with fast and optimized Vite
+
+Easy to customize and extend
+
+🛠 Tech Stack
+Frontend
+
+React
+
+TypeScript
+
+Vite
+
+Tailwind CSS
+
+Development Tools
+
+Git & GitHub
+
+VS Code
+
+Canva (for UI graphics & visuals)
+
+📁 Folder Structure
+My-Portfolio-Sushant-Telrandhe/
+│
+├── public/                 # Static assets
+├── src/
+│   ├── assets/             # Images, icons
+│   ├── components/         # Reusable UI components
+│   ├── pages/              # Website sections
+│   ├── styles/             # Tailwind / custom CSS
+│   ├── App.tsx             # Main app file
+│   ├── main.tsx            # Entry point
+│
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── vite.config.ts
+└── README.md
+
+⚙️ How to Run Locally
+# Clone the repository
+git clone https://github.com/0jokerkiller0/My-Portfolio-Sushant-Telrandhe.git
+
+# Navigate into the folder
+cd My-Portfolio-Sushant-Telrandhe
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+🌐 Deployment Options
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This portfolio can be deployed easily using:
 
-**Use GitHub Codespaces**
+Vercel (Recommended)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Netlify
 
-## What technologies are used for this project?
+GitHub Pages
 
-This project is built with:
+Each supports Vite-based React apps.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📞 Contact
 
-## How can I deploy this project?
+Email: work.sushanttelrandhe@gmail.com
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+LinkedIn: https://www.linkedin.com/in/sushant-telrandhe-1917b0236
 
-## Can I connect a custom domain to my Lovable project?
+GitHub: https://github.com/0jokerkiller0
 
-Yes, you can!
+⭐ Support
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+If you like this portfolio or want to follow my work, please star the repository on GitHub ⭐
